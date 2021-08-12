@@ -13,13 +13,13 @@ export default function Navbar() {
         </span>
       </div>
       <section>
-        <Link href="">
+        <Link href="/">
           <a>Home</a>
         </Link>
-        <Link href="about">
+        <Link href="/about">
           <a>About</a>
         </Link>
-        <Link href="nested/internal">
+        <Link href="/nested/internal">
           <a>Nested</a>
         </Link>
       </section>
